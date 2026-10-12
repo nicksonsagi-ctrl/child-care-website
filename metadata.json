@@ -1,0 +1,6 @@
+{
+  "name": "Little Hearts Children's Care Home",
+  "description": "A warm, modern, and nurturing early childhood education and care home where little hearts grow big dreams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
